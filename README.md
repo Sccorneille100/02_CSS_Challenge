@@ -27,3 +27,5 @@ THEN I am taken to that deployed application
 WHEN I resize the page or view the site on various screens and devices
 THEN I am presented with a responsive layout that adapts to my viewport
 ```
+
+![image](https://user-images.githubusercontent.com/127679758/229402268-d556ed56-7cb4-4400-9955-223c2529eb63.png)

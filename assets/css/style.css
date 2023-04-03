@@ -22,6 +22,9 @@ header #NameBlu {
     font-size: 56px;
     color: cyan;
 }
+header a{
+  color: rgb(34, 6, 59);
+}
 
 header #NameRed {
     color: red;
